@@ -106,8 +106,6 @@ function finalizarJogo() {
         ❌ Erros: ${erros}
         ⏱️ Tempo Total: ${tempoFinal}
         📊 Precisão: ${precisao}%
-        ----------------------------
-        Clique em OK para reiniciar.
     `);
     
     reiniciarEstado();
